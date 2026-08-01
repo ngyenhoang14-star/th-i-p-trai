@@ -8,16 +8,41 @@
 <body>
     <div style="text-align:center;font-size:80px;color:red">
     <p>ảnh và video</p>
-    </div>
+    </div> 
     <h1>nghiện ngập</h1>
-
-    <img scr="762324244_1031811289464333_3872814949715236451_n.jpg" width="500">
-
-    <h2>sinh nhật táng</h2>
-
-    <video width="500" controls>
-        <source scr="AQOm3WcPR0KZijKIn-L_nz8fp-DWNsXAI2a6RN8Cve0B1Nioiuj7OSgdxLCQ2ztb84ZyL4hi5h_zpD_T_bl17rBcxRGe87jxj3oJAyB1Kg.mp4">
-    </video>
     
+    <img src="762324244_1031811289464333_3872814949715236451_n.jpg" width="500">
+    <img src="c:\Users\tn200\Downloads\20260731_161326.jpg" width="300">
+<img src="c:\Users\tn200\Downloads\20260731_161333.jpg" width="300">
+<img src="c:\Users\tn200\Downloads\20260731_161336.jpg" width="300">
+<img src="c:\Users\tn200\Downloads\20260731_161341.jpg" width="300">
+<img src="c:\Users\tn200\Downloads\20260731_161345.jpg" width="300">
+<img src="c:\Users\tn200\Downloads\20260731_161347.jpg" width="300">
+    <h2>sinh nhật táng</h2>
+<div>
+    <video 
+     width="500" controls> 
+        <source src="AQOm3WcPR0KZijKIn-L_nz8fp-DWNsXAI2a6RN8Cve0B1Nioiuj7OSgdxLCQ2ztb84ZyL4hi5h_zpD_T_bl17rBcxRGe87jxj3oJAyB1Kg.mp4">
+</video>
+</div>
+ <h4>vớ vẩn</h4>
+<div>
+    <video 
+     width="500" controls> 
+     <source src="c:\Users\tn200\Downloads\20260731_160603.mp4">
+    </video>
+</div>
+<div>
+    <video 
+     width="500" controls> 
+     <source src="c:\Users\tn200\Downloads\20260731_160924.mp4">
+    </video>
+</div>
+<div>
+    <video width="300" controls>
+        <source src="c:\Users\tn200\Downloads\20260731_161348.mp4">
+    </video>
+</div>
+
 </body>
 </html>
